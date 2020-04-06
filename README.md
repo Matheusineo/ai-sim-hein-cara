@@ -1,1 +1,1 @@
-# ai-sim-hein-cara
+# This project is only for study use
